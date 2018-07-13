@@ -1,0 +1,32 @@
+.content {
+  width: 300px;
+  height: 250px; }
+
+.gen_txtBox {
+  left: 6px;
+  top: 18px; }
+
+.logo_0 {
+  bottom: 3px;
+  left: 13px; }
+
+.items {
+  margin-right: 0px;
+  margin-top: 0px; }
+
+.gen_txtBox_inner {
+  display: inline-block; }
+  
+.gen_txtBox .title1{
+  left: 10px;
+  top: 90px;
+  text-align:center;
+	 }
+
+.txtbox {
+  top: 160px;
+  height: 90px; }
+
+.cta {
+  left: 10px;
+  top: 160px; }
